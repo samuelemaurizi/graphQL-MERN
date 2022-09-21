@@ -36,4 +36,4 @@ After that open a new terminal, cd to the client folder and start the frontend
 npm start
 ```
 
-Open http://localhost:500/graphql to view the GraphQL Integrated Development Environment (GraphiQL). A tool that helps you structure GraphQL queries
+Open http://localhost:5000/graphql to view the GraphQL Integrated Development Environment (GraphiQL). A tool that helps you structure GraphQL queries
